@@ -1,0 +1,14 @@
+paho-mqtt>=1.6.0
+psutil>=5.9.0
+pymysql>=1.0.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+insightface>=0.7.0
+scikit-learn>=1.0.0
+openai>=1.0.0 
+ultralytics>=8.0.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
+torch>=1.8.0
+torchvision>=0.9.0
+pandas>=1.3.0 

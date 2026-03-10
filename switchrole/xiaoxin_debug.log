@@ -1,0 +1,25 @@
+INFO:thread_pool_manager:🎯 线程池管理器初始化完成 (最大工作线程: 10)
+INFO:thread_pool_manager:🔍 线程池监控已启动
+INFO:thread_pool_manager:🔄 启动持久线程: 持续唤醒词检测 (类型: 唤醒词检测, ID: 547595338176)
+INFO:audio_priority_manager:🎵 [持续唤醒词检测] 请求音频权限, 优先级: WAKE_WORD
+INFO:audio_priority_manager:✅ [持续唤醒词检测] 获得音频权限
+INFO:audio_session_manager:🔊 开始播放音频: system
+INFO:audio_player:找到声卡 'lahainayupikiot'，索引: 1
+INFO:audio_player:声卡混音器设置完成
+INFO:audio_player:音频播放器初始化成功
+INFO:audio_player:音频播放启动: wakeup_word.wav (PID: 634275)
+INFO:audio_session_manager:✅ 音频播放完成: system
+INFO:audio_priority_manager:🎵 [唤醒提示音] 请求音频权限, 优先级: TTS
+INFO:audio_priority_manager:❌ [唤醒提示音] 音频权限被拒绝，当前优先级更高: WAKE_WORD
+INFO:thread_pool_manager:🚀 启动线程: 语音对话处理 (类型: 对话管理, ID: 546570916288)
+INFO:audio_session_manager:🎤 开始录音
+INFO:audio_session_manager:✅ 录音完成
+INFO:audio_priority_manager:🎵 [唤醒提示音] 请求音频权限, 优先级: TTS
+INFO:audio_priority_manager:❌ [唤醒提示音] 音频权限被拒绝，当前优先级更高: WAKE_WORD
+INFO:thread_pool_manager:🚀 启动线程: 语音对话处理 (类型: 对话管理, ID: 546570916288)
+INFO:audio_session_manager:🎤 开始录音
+INFO:audio_session_manager:✅ 录音完成
+INFO:audio_priority_manager:🛑 强制停止所有音频，除了: None
+INFO:audio_priority_manager:🎵 [流式TTS] 请求音频权限, 优先级: TTS
+INFO:audio_priority_manager:✅ [流式TTS] 获得音频权限
+INFO:audio_session_manager:🔊 开始播放音频: tts
