@@ -1,6 +1,10 @@
 # 智能学习助手
 
 一个基于PyQt5和MQTT协议的智能学习助手应用程序，支持学校和家庭两种使用环境。
+具体显示视频可以参考如下链接：
+
+[演示视频](https://www.bilibili.com/video/BV122bHzaEtY/?spm_id_from=333.1387.0.0&vd_source=9119a12881bb469e8838fcc25f9e9b31)
+
 
 ## 功能特性
 
